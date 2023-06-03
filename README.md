@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stiven</h1>
 <h3 align="center">A passionate Junior programmer from Bogotá-Colombia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stivenbflorez" alt="stivenbflorez" /></a> </p>
+
 
 - 📫 How to reach me **bsflorezr2018colegiousminia.edu.co**
 
